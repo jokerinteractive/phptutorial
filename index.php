@@ -15,11 +15,20 @@
 
   $news = [
     [
-      'date' => '',
-      'title' => '',
-      'picture' => '/img/news1.jpg',
+      'date' => '10.08.17',
+      'title' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+      'picture' => '/img/sea.jpg',
     ],
-    []
+    [
+      'date' => '11.08.17',
+      'title' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+      'picture' => '/img/bridge.jpg',
+    ],
+    [
+      'date' => '12.08.17',
+      'title' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+      'picture' => '/img/wood.jpg',
+    ],
   ];
 
   include_once('tpl/header.php');
